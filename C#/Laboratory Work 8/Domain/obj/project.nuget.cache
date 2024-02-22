@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pF+nXFp/ub+C86Wh3LSi1NVPPzHMJgM0zfwFyXWpX53Bxm6Wzj4AQp94kCnbqLwUTBkPKSBSkP0VgYtTsTobcw==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.8/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

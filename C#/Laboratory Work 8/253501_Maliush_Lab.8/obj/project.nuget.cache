@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jv0X9I5RzqHPfKcZxFPCn6fK4KB6yvNUrbCTSNxdZtWGfpOv/m5E/uYNNU+gSv2rmb51vthi88SOkzf66EFX+g==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.8/253501_Maliush_Lab.8/253501_Maliush_Lab.8.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/json.net/1.0.33/json.net.1.0.33.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
