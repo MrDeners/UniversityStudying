@@ -1,0 +1,11 @@
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/bin/Debug/net7.0/ClassLibrary.deps.json
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/bin/Debug/net7.0/ClassLibrary.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/bin/Debug/net7.0/ClassLibrary.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/ClassLibrary.AssemblyInfo.cs
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/ClassLibrary.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/refint/ClassLibrary.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/ClassLibrary.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab7/ClassLibrary/obj/Debug/net7.0/ref/ClassLibrary.dll
