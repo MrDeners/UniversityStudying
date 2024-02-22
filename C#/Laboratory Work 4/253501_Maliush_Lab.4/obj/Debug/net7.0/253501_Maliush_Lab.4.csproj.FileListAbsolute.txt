@@ -1,0 +1,14 @@
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/253501_Maliush_Lab.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/253501_Maliush_Lab.4.AssemblyInfoInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/253501_Maliush_Lab.4.AssemblyInfo.cs
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/253501_Maliush_Lab.4.csproj.CoreCompileInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/bin/Debug/net7.0/253501_Maliush_Lab.4
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/bin/Debug/net7.0/253501_Maliush_Lab.4.deps.json
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/bin/Debug/net7.0/253501_Maliush_Lab.4.runtimeconfig.json
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/bin/Debug/net7.0/253501_Maliush_Lab.4.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/bin/Debug/net7.0/253501_Maliush_Lab.4.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/253501_Maliush_Lab.4.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/refint/253501_Maliush_Lab.4.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/253501_Maliush_Lab.4.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/253501_Maliush_Lab.4.genruntimeconfig.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab.4/253501_Maliush_Lab.4/obj/Debug/net7.0/ref/253501_Maliush_Lab.4.dll
