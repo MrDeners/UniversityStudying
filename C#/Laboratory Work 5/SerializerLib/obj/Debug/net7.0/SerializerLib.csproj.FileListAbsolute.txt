@@ -1,0 +1,15 @@
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/bin/Debug/net7.0/SerializerLib.deps.json
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/bin/Debug/net7.0/SerializerLib.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/bin/Debug/net7.0/SerializerLib.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/bin/Debug/net7.0/253501_Maliush_Lab5.Domain.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/bin/Debug/net7.0/253501_Maliush_Lab5.Domain.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.csproj.AssemblyReference.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.AssemblyInfoInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.AssemblyInfo.cs
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.csproj.CoreCompileInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.csproj.CopyComplete
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/refint/SerializerLib.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/SerializerLib.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/SerializerLib/obj/Debug/net7.0/ref/SerializerLib.dll

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRestaurant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Restaurant>
+    <Kitchen>
+      <Square>134</Square>
+      <AmountOfWorker>12</AmountOfWorker>
+    </Kitchen>
+    <Name>MCDonalds</Name>
+  </Restaurant>
+  <Restaurant>
+    <Kitchen>
+      <Square>20</Square>
+      <AmountOfWorker>1</AmountOfWorker>
+    </Kitchen>
+    <Name>KFC</Name>
+  </Restaurant>
+  <Restaurant>
+    <Kitchen>
+      <Square>190</Square>
+      <AmountOfWorker>8</AmountOfWorker>
+    </Kitchen>
+    <Name>Burger King</Name>
+  </Restaurant>
+  <Restaurant>
+    <Kitchen>
+      <Square>154</Square>
+      <AmountOfWorker>10</AmountOfWorker>
+    </Kitchen>
+    <Name>SMACHNA DI KROPKA</Name>
+  </Restaurant>
+  <Restaurant>
+    <Kitchen>
+      <Square>13</Square>
+      <AmountOfWorker>11</AmountOfWorker>
+    </Kitchen>
+    <Name>Vasilki</Name>
+  </Restaurant>
+</ArrayOfRestaurant>

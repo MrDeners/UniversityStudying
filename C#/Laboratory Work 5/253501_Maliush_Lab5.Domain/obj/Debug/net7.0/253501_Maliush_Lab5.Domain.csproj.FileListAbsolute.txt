@@ -1,0 +1,11 @@
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/bin/Debug/net7.0/253501_Maliush_Lab5.Domain.deps.json
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/bin/Debug/net7.0/253501_Maliush_Lab5.Domain.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/bin/Debug/net7.0/253501_Maliush_Lab5.Domain.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/253501_Maliush_Lab5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/253501_Maliush_Lab5.Domain.AssemblyInfoInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/253501_Maliush_Lab5.Domain.AssemblyInfo.cs
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/253501_Maliush_Lab5.Domain.csproj.CoreCompileInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/253501_Maliush_Lab5.Domain.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/refint/253501_Maliush_Lab5.Domain.dll
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/253501_Maliush_Lab5.Domain.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/253501_Maliush_Lab5/253501_Maliush_Lab5.Domain/obj/Debug/net7.0/ref/253501_Maliush_Lab5.Domain.dll

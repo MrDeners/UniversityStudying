@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Restaurants>
+  <Restaurant>
+    <Name>MCDonalds</Name>
+    <Kitchen>
+      <Square>134</Square>
+      <AmountOfWorker>12</AmountOfWorker>
+    </Kitchen>
+  </Restaurant>
+  <Restaurant>
+    <Name>KFC</Name>
+    <Kitchen>
+      <Square>20</Square>
+      <AmountOfWorker>1</AmountOfWorker>
+    </Kitchen>
+  </Restaurant>
+  <Restaurant>
+    <Name>Burger King</Name>
+    <Kitchen>
+      <Square>190</Square>
+      <AmountOfWorker>8</AmountOfWorker>
+    </Kitchen>
+  </Restaurant>
+  <Restaurant>
+    <Name>SMACHNA DI KROPKA</Name>
+    <Kitchen>
+      <Square>154</Square>
+      <AmountOfWorker>10</AmountOfWorker>
+    </Kitchen>
+  </Restaurant>
+  <Restaurant>
+    <Name>Vasilki</Name>
+    <Kitchen>
+      <Square>13</Square>
+      <AmountOfWorker>11</AmountOfWorker>
+    </Kitchen>
+  </Restaurant>
+</Restaurants>
