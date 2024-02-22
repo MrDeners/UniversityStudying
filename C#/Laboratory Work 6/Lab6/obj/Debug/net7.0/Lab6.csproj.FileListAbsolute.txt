@@ -1,0 +1,14 @@
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Lab6
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Lab6.deps.json
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Lab6.runtimeconfig.json
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Lab6.dll
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Lab6.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/Lab6.AssemblyInfoInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/Lab6.AssemblyInfo.cs
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/Lab6.dll
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/refint/Lab6.dll
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/Lab6.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/Lab6.genruntimeconfig.cache
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/obj/Debug/net7.0/ref/Lab6.dll

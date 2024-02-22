@@ -1,0 +1,11 @@
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Domain.deps.json
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Domain.dll
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Lab6/bin/Debug/net7.0/Domain.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/Domain.dll
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/macbook/BSUIR/Лабораторные/C#/Lab6/Domain/obj/Debug/net7.0/ref/Domain.dll
