@@ -1,0 +1,1 @@
+void menu(BMPFile *image);
