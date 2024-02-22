@@ -1,0 +1,14 @@
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/253501_Malush_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/253501_Malush_Lab1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/253501_Malush_Lab1.AssemblyInfo.cs
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/253501_Malush_Lab1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/bin/Debug/net7.0/253501_Malush_Lab1
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/bin/Debug/net7.0/253501_Malush_Lab1.deps.json
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/bin/Debug/net7.0/253501_Malush_Lab1.runtimeconfig.json
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/bin/Debug/net7.0/253501_Malush_Lab1.dll
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/bin/Debug/net7.0/253501_Malush_Lab1.pdb
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/253501_Malush_Lab1.dll
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/refint/253501_Malush_Lab1.dll
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/253501_Malush_Lab1.pdb
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/253501_Malush_Lab1.genruntimeconfig.cache
+/Users/macbook/Projects/253501_Malush_Lab1/253501_Malush_Lab1/obj/Debug/net7.0/ref/253501_Malush_Lab1.dll
